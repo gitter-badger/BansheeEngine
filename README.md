@@ -1,4 +1,6 @@
 # What is Banshee? 
+
+[![Join the chat at https://gitter.im/Banshee3D/Lobby](https://badges.gitter.im/Banshee3D/Lobby.svg)](https://gitter.im/Banshee3D/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A high quality modern game development toolkit. It provides a **high performance multi-threaded game engine** written in C++14 that runs 2D and 3D games. The engine offers a wide variety of high level systems needed for game development, ranging from math and utility libraries, to Vulkan, DirectX 11 and OpenGL support all the way to input, GUI, physics, audio, animation, scripting and support for many popular resource formats (e.g. FBX, PNG, PSD, TTF, OGG, WAV).
 
 On top of the engine Banshee also provides a highly intuitive and customizable **editor** that is easy to use by artists, designers and programmers alike. The editor allows you to manage all your project's assets, build levels, compile scripts, test and publish your game. Editor is also fully extensible via scripting to ensure developers can easily customize it for the exact needs of their projects.
